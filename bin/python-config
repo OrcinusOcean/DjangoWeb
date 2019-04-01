@@ -1,4 +1,4 @@
-#!/Users/yulinfeng/ulin/trydjango/bin/python
+#!/Users/yulinfeng/ulin/DjangoWeb/bin/python
 
 import sys
 import getopt

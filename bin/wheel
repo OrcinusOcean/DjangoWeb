@@ -1,4 +1,4 @@
-#!/Users/yulinfeng/ulin/trydjango/bin/python3
+#!/Users/yulinfeng/ulin/DjangoWeb/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
